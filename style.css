@@ -1,0 +1,56 @@
+body {
+  background-color:teal;
+}
+
+h1{size: 73px;
+  font-family: Helvetica;
+}
+div{
+  background-color: tseal;
+ 
+}
+.one{
+  padding-left: 300px;
+  color: white;
+  font-size: 34px;
+}
+.true{
+  padding-left: 50px;
+  padding-top: 33px;
+ 
+  
+}
+.three{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+  
+  li{
+  color: black; 
+  font-size: 20px;
+}
+  
+
+p{
+  color: black; 
+  font-size: 20px;
+  font-family: Helvetica;
+}
+ul{
+  color: white; 
+  
+  font-size: 20px;
+  font-family: Helvetica;}
+
+li{
+  font-size: 20px;}
+
+  h3{
+  color: white; 
+  font-size: 20px;
+  font-family: Helvetica;
+ 
+}
+
+
+
