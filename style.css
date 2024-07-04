@@ -1,53 +1,53 @@
 body {
-  background-color:teal;
+  background-color: teal;
 }
 
-h1{size: 73px;
+h1{size: 73 px;
   font-family: Helvetica;
 }
 div{
-  background-color: tseal;
+  background-color: teal;
  
 }
 .one{
-  padding-left: 300px;
+  padding-left: 300 px;
   color: white;
-  font-size: 34px;
+  font-size: 34 px;
 }
 .true{
-  padding-left: 50px;
-  padding-top: 33px;
+  padding-left: 50 px;
+  padding-top: 33 px;
  
   
 }
 .three{
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 100 px;
+  padding-right: 100 px;
 }
   
   li{
   color: black; 
-  font-size: 20px;
+  font-size: 20 px;
 }
   
 
 p{
   color: black; 
-  font-size: 20px;
+  font-size: 20 px;
   font-family: Helvetica;
 }
 ul{
   color: white; 
   
-  font-size: 20px;
+  font-size: 20 px;
   font-family: Helvetica;}
 
 li{
-  font-size: 20px;}
+  font-size: 20 px;}
 
   h3{
   color: white; 
-  font-size: 20px;
+  font-size: 20 px;
   font-family: Helvetica;
  
 }
