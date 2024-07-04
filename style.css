@@ -1,12 +1,13 @@
 body {
-  background-color: teal;
+  background-color: blue;
 }
 
 h1 {size: 73px;
   font-family: Helvetica;
+  color: white;
 }
 div {
-  background-color: teal;
+  background-color: blue;
  
 }
 .one{
@@ -26,7 +27,7 @@ div {
 }
   
   li{
-  color: black; 
+  color: white; 
   font-size: 20px;
 }
   
